@@ -7,7 +7,7 @@ provides the core operations which are required by any search application. Index
 Searching.
 
 
-Environment Setup Prerequistes:
+Environment Setup Prerequistes:<br>
 Oracle's Java site: Java SE Downloads(https://www.oracle.com/java/technologies/javase-downloads.html).
 Eclipse IDE Setup:	http://www.eclipse.org/downloads/
 Setup Lucene Framework Libraries:	http://archive.apache.org/dist/lucene/java/
