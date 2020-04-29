@@ -13,14 +13,14 @@ Eclipse IDE Setup:	http://www.eclipse.org/downloads/<br>
 Setup Lucene Framework Libraries:	http://archive.apache.org/dist/lucene/java/
 
 
-The Java files Created to build search Application:
-LuceneConstants.java: Intialised constant variables to use throughout the application
-TextFileFilter.java: To call text files from the input directory
-Indexer.java: Create index from the document
-Searcher.java: Java file which implemented search method for user to search for text in from the Index repository
-LuceneTester.java: Run this application where Indexer and Searcher methods have been written
+The Java files created to build search Application:<br>
+LuceneConstants.java: Intialised constant variables to use throughout the application<br>
+TextFileFilter.java: To call text files from the input directory<br>
+Indexer.java: Create index from the document<br>
+Searcher.java: Java file which implemented search method for user to search for text in from the Index repository<br>
+LuceneTester.java: Run this application where Indexer and Searcher methods have been written<br>
 
 
-Reference:
-I have referred the TutorialsPoints to do the Search Application. I have added the link of the same here.
+Reference:<br>
+I have referred the TutorialsPoints to do the Search Application. I have added the link of the same here.<br>
 https://www.tutorialspoint.com/lucene/lucene_tutorial.pdf
