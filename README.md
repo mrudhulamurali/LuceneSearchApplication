@@ -8,7 +8,7 @@ Searching.
 
 
 Environment Setup Prerequistes:<br>
-Oracle's Java site: Java SE Downloads(https://www.oracle.com/java/technologies/javase-downloads.html).
+Oracle's Java site: Java SE Downloads(https://www.oracle.com/java/technologies/javase-downloads.html).<br>
 Eclipse IDE Setup:	http://www.eclipse.org/downloads/
 Setup Lucene Framework Libraries:	http://archive.apache.org/dist/lucene/java/
 
